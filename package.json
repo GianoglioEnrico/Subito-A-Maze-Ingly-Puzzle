@@ -1,0 +1,15 @@
+{
+  "name": "subito-a-maze-ingly-puzzle",
+  "version": "1.0.0",
+  "description": "Implementation to solve the a-maze-ingly puzzle problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js",
+    "start": "node index.js"
+  },
+  "author": "Enrico Gianoglio",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}
